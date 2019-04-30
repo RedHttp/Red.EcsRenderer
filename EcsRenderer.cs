@@ -26,7 +26,7 @@ namespace Red.EcsRenderer
         {
             RenderParams.Converter = server.Plugins.Get<IJsonConverter>();
             var renderer = new EcsPageRenderer(_renderCaching);
-            server.Plugins.Register(renderer);
+            server.Plugins.Register<EcsPageRenderer, EcsPageRenderer>(renderer);
         }
     }
 }
