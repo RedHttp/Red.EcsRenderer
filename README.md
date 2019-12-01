@@ -1,5 +1,9 @@
 # Ecs Renderer for RedHttpServer
-The ecs renderer is a simple templating engine extension for Red 
+### A simple templating engine extension for Red 
+[![GitHub](https://img.shields.io/github/license/redhttp/red.ecsrenderer)](https://github.com/RedHttp/Red.EcsRenderer/blob/master/LICENSE.md)
+[![Nuget](https://img.shields.io/nuget/v/red.ecsrenderer)](https://www.nuget.org/packages/red.ecsrenderer/)
+[![Nuget](https://img.shields.io/nuget/dt/red.ecsrenderer)](https://www.nuget.org/packages/red.ecsrenderer/)
+![Dependent repos (via libraries.io)](https://img.shields.io/librariesio/dependent-repos/nuget/red.ecsrenderer)
 
 ### Usage
 After installing and referencing this library, the `Red.Response` has the extension method `RenderPage(pageFilePath, parameters, ..)`.
