@@ -19,6 +19,6 @@
     <Description>Extension for Red for rendering .ecs files</Description>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="RHttpServer" Version="4.0.0" />
+    <PackageReference Include="RHttpServer" Version="4.0.2" />
   </ItemGroup>
 </Project>
