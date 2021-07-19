@@ -1,3 +1,5 @@
+## The RedHttp project is no longer maintained. See [Carter](https://github.com/CarterCommunity/Carter) for a similar low-ceremony experience.
+
 # Ecs Renderer for RedHttpServer
 ### A simple templating engine extension for Red 
 [![GitHub](https://img.shields.io/github/license/redhttp/red.ecsrenderer)](https://github.com/RedHttp/Red.EcsRenderer/blob/master/LICENSE.md)
